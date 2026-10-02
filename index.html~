@@ -10,8 +10,8 @@
     <h1>Palak Verma</h1>
 
     <nav>
-    <a href="index.html">Resume</a>
-    <a href="contact.html">Contact</a>
+    <a href="./ResumeMaking/index.html">Resume</a>
+    <a href="./ResumeMaking/contact.html">Contact</a>
     </nav>
 
 <img src="PHOTO.jpg" alt="Profile Picture" width="200" height="200">
